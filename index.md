@@ -8,21 +8,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Horoscopes](/pdf/sample_presentation.pdf)
+[Horoscopes](https://horoscope-central.netlify.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Sharky's Redesign](http://example.com/)
+[Sharky's Redesign](http://sharkysnj.surge.sh/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Front-End only React
-
-
-- [Bingo](http://awesome-bingo.surge.sh/) _HTML & JavaScript_
-- [Horoscope Central](https://horoscope-central.netlify.com/) _React_
-- [Sharky's](http://sharkysnj.surge.sh/) _React_
 
 ---
 

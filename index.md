@@ -8,11 +8,11 @@
 <img src="images/Bingo.png?raw=true"/>
 
 ---
-[Horoscopes](https://horoscope-central.netlify.com/)
+[Horoscope Central](https://horoscope-central.netlify.com/)
 <img src="images/Horoscope_homepage.png?raw=true"/>
 
 ---
-[Sharky's Redesign](https://sharkysnj.netlify.app/)
+[Sharky's Sports Bar](https://sharkysnj.netlify.app/)
 <img src="images/Sharkys.png?raw=true"/>
 
 ---

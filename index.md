@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Sharky's Redesign](http://sharkysnj.surge.sh/)
+[Sharky's Redesign](https://sharkysnj.netlify.app/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

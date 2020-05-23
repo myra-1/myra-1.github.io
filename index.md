@@ -17,7 +17,7 @@
 
 ---
 
-### Full Stack with Authentication
+### Other Projects
 
 - [My Recipe Book](http://my-recipebook.surge.sh/) _MERN Stack_
 - [Remote Farmers Market](http://rfmgvill.surge.sh/) _React & Ruby on Rails_

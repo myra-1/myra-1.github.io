@@ -9,11 +9,11 @@
 
 ---
 [Horoscopes](https://horoscope-central.netlify.com/)
-<img src="images/horoscopes_homepage.png?raw=true"/>
+<img src="images/Horoscope_homepage.png?raw=true"/>
 
 ---
 [Sharky's Redesign](https://sharkysnj.netlify.app/)
-<img src="images/Sharkys?raw=true"/>
+<img src="images/Sharkys.png?raw=true"/>
 
 ---
 

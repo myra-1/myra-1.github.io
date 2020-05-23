@@ -5,15 +5,15 @@
 ### Projects
 
 [Bingo](http://awesome-bingo.surge.sh/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Bingo.png?raw=true"/>
 
 ---
 [Horoscopes](https://horoscope-central.netlify.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/horoscopes_homepage.png?raw=true"/>
 
 ---
 [Sharky's Redesign](https://sharkysnj.netlify.app/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sharkys?raw=true"/>
 
 ---
 
